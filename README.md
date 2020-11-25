@@ -1,2 +1,6 @@
 # phoneDirectory
-fully java and my sql program
+fully java and MySql program
+
+
+#Note
+##change the password of mysql if giving jdbc error. 
