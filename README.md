@@ -24,4 +24,4 @@ Step 2: After running above two queries import the SQL file included with this p
 
 # Boom! 💥 You are all up run this project
 
-#### This project belongs to <a href="https://devatharva.me/">Atharva Joshi</a> if you desire to wish this project mention me(Atharva Joshi) as first person.
+#### This project belongs to <a href="https://devatharva.me/">Atharva Joshi</a> if you desire/wish to use this project mention me(Atharva Joshi).
