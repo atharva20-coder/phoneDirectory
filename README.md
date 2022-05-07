@@ -1,6 +1,6 @@
 # phoneDirectory
 
-<img src="https://github.com/atharva20-coder/phoneDirectory/blob/master/Screenshot%20(2).png" width="500">
+<img src="https://github.com/atharva20-coder/phoneDirectory/blob/master/Phone%20Directory.png" width="800">
 
 fully java and MySql program
 
