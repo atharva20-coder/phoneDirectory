@@ -19,15 +19,15 @@ Step 3: On the window locate your mysql connector jar file.
 
 step 1: In your SQL terminal create database named `phonedirectory` using below query.
 
-`create database phonedirectory`
+`create database phonedirectory;`
 
 then run
 
-`use phonedirectory`
+`use phonedirectory;`
 
 Step 2: After running above two queries import the SQL file included with this project by using below query.
 
-`source {path of the file}/phone.sql`
+`source {path of the file}/phone.sql;`
 
 # Boom! 💥 You are all up run this project
 
